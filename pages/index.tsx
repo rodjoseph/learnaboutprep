@@ -12,7 +12,8 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <img className="full-width" src="https://www.sfaf.org/wp-content/uploads/posts/PrEP-pills.jpg" width="100%" alt="Picture of pills"></img>
+      <Image className="full-width" src="https://www.sfaf.org/wp-content/uploads/posts/PrEP-pills.jpg" width="100%" alt="Picture of pills"/>
+
       <main className={styles.main}>
 
         <h2 className={styles.title}>
@@ -62,7 +63,7 @@ const Home: NextPage = () => {
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a><br/>
-        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>.
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><Image alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>.
       </footer>
     </div>
   )
