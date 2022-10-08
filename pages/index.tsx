@@ -12,8 +12,6 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Image className="full-width" src="https://www.verywellhealth.com/thmb/XTV9Tlkp0uH4HC5I8b4zcOmIqLg=/2123x1413/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-516794016-5a6f9bd8d8fdd50036c98b7f.jpg" width="100%" alt="Picture of pills"/>
-
       <main className={styles.main}>
 
         <h2 className={styles.title}>
