@@ -48,7 +48,7 @@ const Home: NextPage = () => {
        <p className={styles.description}>Descovy has a lower risk of side effects overall and is safer for the kidneys. However, it has not been tested sufficiently in cisgender women. Both medications are highly effective and have few side effects.</p>
        <h2 className={styles.title}>Where can I learn more?</h2>
        <p className={styles.description}>From the <a color='blue' href="https://www.cdc.gov/hiv/basics/prep.html">CDC website</a>. You can also use this website to find a provider and find other HIV prevention services.</p>
-       
+
       </main>
       <footer className={styles.footer}>
         This website was created by Rod Joseph for the 2022 NY Awards Ball and is determined to be informational, but does not constitute medical advice of any kind. The content and views expressed in this video are those of the author and do not necessarily represent the views, opinions or positions of and should not be attributed to Gilead Sciences or any other person or organization.
