@@ -41,11 +41,11 @@ const Home: NextPage = () => {
        <h2 className={styles.title}>How can I get PrEP?</h2>
        <p className={styles.description}>You can get access to PrEP care medication through your healthcare provider, free clinics, telehealth services, PrEP research studies, and online pharmacies.</p>
        </div>
-       <h2 className={styles.title}>Can I take PrEP when I'm on hormones?</h2>
+       <h2 className={styles.title}>Can I take PrEP when on hormones?</h2>
        <p className={styles.description}>Yes.</p>
        <h2 className={styles.title}>Can I drink on PrEP?</h2>
        <p className={styles.description}>Yes.</p>
-       <h2 className={styles.title}>What's the difference between Truvada and Descovy?</h2>
+       <h2 className={styles.title}>What is the difference between Truvada and Descovy?</h2>
        <p className={styles.description}>Descovy has a lower risk of side effects overall and is safer for the kidneys. However, it has not been tested sufficiently in cisgender women. Both medications are highly effective and have few side effects.</p>
        <h2 className={styles.title}>Where can I learn more?</h2>
        <p className={styles.description}>From the <a color='blue' href="https://www.cdc.gov/hiv/basics/prep.html">CDC website</a>. You can also use this website to find a provider and find other HIV prevention services.</p>
